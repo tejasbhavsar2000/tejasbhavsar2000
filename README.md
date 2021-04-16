@@ -1,4 +1,9 @@
-### Hi there 👋
+# Tejas Bhavsar
+
+## Hello There :wave:
+
+Website : https://tejas-dev.web.app | Twitter: https://twitter.com/tejasb_dev
+Currently Working on : Animex.
 
 <!--
 **tejasbhavsar2000/tejasbhavsar2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
