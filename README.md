@@ -2,7 +2,7 @@
 
 ## Hello There :wave:
 
-Website : https://tejas-dev.web.app | Twitter: https://twitter.com/tejasb_dev
+Website : https://tejas-dev.web.app | Twitter: https://twitter.com/tejasb_dev <br>
 Currently Working on : Animex.
 
 <!--
