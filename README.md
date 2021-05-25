@@ -2,8 +2,8 @@
 
 ## Hello There :wave:
 
-Website : https://tejas-dev.web.app | Twitter: https://twitter.com/tejasb_dev <br>
-Currently Working on : Animex.
+Website : https://tejas-dev.web.app | Twitter: https://twitter.com/Quirkk_Less <br>
+Currently Working on : [Portfolio, Anime-Jikan].
 
 <!--
 **tejasbhavsar2000/tejasbhavsar2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
