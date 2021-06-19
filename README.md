@@ -2,7 +2,7 @@
 
 ## Hello There :wave:
 
-Website : https://tejas-dev.web.app | Twitter: https://twitter.com/Quirkk_Less <br>
+Twitter: https://twitter.com/_tejas_bhavsar <br>
 Currently Working on : [Portfolio, Anime-Jikan].
 
 <!--
