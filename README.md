@@ -1,10 +1,14 @@
-# Tejas Bhavsar
 
-## Hello There :wave:
 
+# Hello There :wave:
+
+
+  I’m currently working on : [Character Controller](https://github.com/tejasbhavsar2000/character-controller)  
+  and would be happy if anyone would like to collaborate.  
+  Currently learning [Three.js](https://threejs.org/)
+  
+  
 Twitter: https://twitter.com/_tejas_bhavsar <br>
-Currently Working on : [Character-Controller].
-
 <!--
 **tejasbhavsar2000/tejasbhavsar2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
